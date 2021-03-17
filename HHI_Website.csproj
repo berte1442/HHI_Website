@@ -171,6 +171,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Images\chimney-camera-pole%281%29.jpg" />
+    <Content Include="index.html" />
     <Content Include="Inspections.aspx" />
     <Content Include="PriceCalculator.aspx" />
     <Content Include="Schedule.aspx" />
